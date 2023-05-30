@@ -4,7 +4,7 @@ import { useNavigate } from 'react-router-dom';
 import Box from './Box';
 import Text from './Text';
 import Image from './Image';
-import Button from './Button';
+import Button from './components/Button';
 
 function ProductDetail() {
   

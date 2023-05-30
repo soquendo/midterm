@@ -4,7 +4,7 @@ import { useFetch } from './hooks/useFetch';
 import Box from './Box';
 import Text from './Text';
 import Image from './Image';
-import Button from './Button';
+import Button from './components/Button';
 
 function Products() {
 
