@@ -1,10 +1,9 @@
-import { useParams } from 'react-router-dom';
-import { useFetch } from './hooks/useFetch';
-import { useNavigate } from 'react-router-dom';
-import Box from './Box';
-import Text from './Text';
-import Image from './Image';
-import Button from './components/Button';
+import { useParams, useNavigate } from 'react-router-dom';
+import useFetch from '../hooks/useFetch';
+import Box from '../components/Box';
+import Text from '../components/Text';
+import Image from '../components/Image';
+import Button from '../components/Button';
 
 function ProductDetail() {
   
